@@ -1,0 +1,15 @@
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\bin\Debug\net6.0\Example_helloworld.exe
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\bin\Debug\net6.0\Example_helloworld.deps.json
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\bin\Debug\net6.0\Example_helloworld.runtimeconfig.json
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\bin\Debug\net6.0\Example_helloworld.dll
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\bin\Debug\net6.0\Example_helloworld.pdb
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\Example_helloworld.csproj.AssemblyReference.cache
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\Example_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\Example_helloworld.AssemblyInfoInputs.cache
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\Example_helloworld.AssemblyInfo.cs
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\Example_helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\Example_helloworld.dll
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\refint\Example_helloworld.dll
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\Example_helloworld.pdb
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\Example_helloworld.genruntimeconfig.cache
+C:\Users\Тамерлан\Desktop\Geekbrains\Знакомство с языками програмиирования (лекции)\Лекция 1\Example_helloworld\obj\Debug\net6.0\ref\Example_helloworld.dll
